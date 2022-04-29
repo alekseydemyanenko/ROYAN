@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: 'Malik';
+    src: url('../fonts/Malik-Bold/Malik-Bold.woff2') format('woff2'),
+        url('../fonts/Malik-Bold/Malik-Bold.woff') format('woff');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Malik';
+    src: url('../fonts/Malik-Regular/Malik-Regular.woff2') format('woff2'),
+        url('../fonts/Malik-Regular/Malik-Regular.woff') format('woff');
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('../fonts/Qanelas-Regular/Qanelas-Regular.woff2') format('woff2'),
+        url('../fonts/Qanelas-Regular/Qanelas-Regular.woff') format('woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('../fonts/Qanelas-Medium/Qanelas-Medium.woff2') format('woff2'),
+        url('../fonts/Qanelas-Medium/Qanelas-Medium.woff') format('woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('../fonts/Qanelas-Bold/Qanelas-Bold.woff2') format('woff2'),
+        url('../fonts/Qanelas-Bold/Qanelas-Bold.woff') format('woff');
+    font-weight: 700;
+}
